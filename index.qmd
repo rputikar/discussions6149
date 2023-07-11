@@ -1,0 +1,9 @@
+---
+title: main page
+listing: default
+---
+
+How to change the names of `.pdf` and `.docx` files generated from `index.pdf` or
+`index.docx` to `{some-pattern}.pdf` or `{some-pattern}.docx` without hardcoding it
+in the document metadata with output-file while preserving the links generated
+by `quarto render`?

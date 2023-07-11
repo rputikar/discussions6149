@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/content/index.html",
+    "items": [
+      "/content/folder1/index.html",
+      "/content/folder2/index.html",
+      "/content/folder3/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/content/index.html",
+      "/content/folder1/index.html",
+      "/content/folder2/index.html",
+      "/content/folder3/index.html"
+    ]
+  }
+]

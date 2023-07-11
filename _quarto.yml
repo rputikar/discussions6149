@@ -1,0 +1,12 @@
+project:
+  type: "website"
+  title: "discussion 6149"
+  output-dir: _site
+
+website:
+  title: "discussion 6149"
+
+format:
+  html: default
+  pdf: default
+  docx: default
